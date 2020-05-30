@@ -1,5 +1,5 @@
 <?php
-include('./header.php');   // load header
+include('./header-fixedTop.php');   // load header
 ?>
 <main role="main" class="container">
     <div class="row">
